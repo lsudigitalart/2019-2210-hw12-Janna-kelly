@@ -3,7 +3,7 @@ let a = 0
 let c = 20
 let angle = 2
 let art
-let m = map(value, 0, 100, 0, width);
+
 
 function setup() {
   createCanvas(900, 900, WEBGL);
